@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/moca.output"/>
+	<classpathentry kind="src" path="moca"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="MOCA_DSA.jar"/>
+	<classpathentry kind="lib" path="lib/jars/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/jars/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/jars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/jars/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/jars/httpclient-cache-4.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/jars/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/jars/httpmime-4.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/jars/jinput.jar"/>
+	<classpathentry kind="lib" path="lib/jars/SixenseJava.jar"/>
+	<classpathentry kind="lib" path="lib/jars/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/jars/slf4j-simple-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/jars/thrift.jar"/>
+	<classpathentry kind="lib" path="lib/jars/utils.jar"/>
+	<classpathentry kind="lib" path="lib/jars/reetilib/liburbijava.jar"/>
+	<classpathentry kind="lib" path="lib/jars/reetilib/urbiballtrackinghead.jar"/>
+	<classpathentry kind="lib" path="lib/jars/reetilib/urbibandwidth.jar"/>
+	<classpathentry kind="lib" path="lib/jars/reetilib/urbiimage.jar"/>
+	<classpathentry kind="lib" path="lib/jars/reetilib/urbimirror.jar"/>
+	<classpathentry kind="lib" path="lib/jars/reetilib/urbiping.jar"/>
+	<classpathentry kind="lib" path="lib/jars/reetilib/urbiplay.jar"/>
+	<classpathentry kind="lib" path="lib/jars/reetilib/urbirecord.jar"/>
+	<classpathentry kind="lib" path="lib/jars/reetilib/urbisend.jar"/>
+	<classpathentry kind="lib" path="lib/jars/reetilib/urbisendsound.jar"/>
+	<classpathentry kind="lib" path="lib/jars/reetilib/urbisound.jar"/>
+	<classpathentry kind="lib" path="lib/jars/reetilib/urbitalkie.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

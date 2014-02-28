@@ -1,0 +1,21 @@
+<config>
+
+
+	<alias name="Example Controler Nao_Xbox" />
+	
+	
+	<icon path="./icons/simon_icon.png" />
+	
+
+	<servers_ping_input 	protocol_port="9589" />
+	
+	<device_pong_input 		protocol_port="auto" />
+	
+	<device_thrift_input 	protocol_port="auto" />
+	
+	<timeout timeout_serverlost_reconnect="20000"
+			 timeout_contact_local="2000"
+			 timeout_contact_global="6000"
+			 frequency_server_ping="3000" />
+
+</config>

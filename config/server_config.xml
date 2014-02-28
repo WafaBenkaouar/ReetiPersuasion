@@ -1,0 +1,21 @@
+<config>
+	
+	<server_ping_input 		protocol_port="9589" />
+	
+	<server_thrift_input 	protocol_port="9590" />
+	
+	<server_knowledge 		protocol_port="9591" />
+	
+	<server_device 			protocol_port="9592" />
+	
+	<server_inter_broadcast protocol_port="9593" />
+	
+	<server_udp_link 		protocol_port="9594" />
+	
+	<persistant_base_url_post 		url="http://localhost/MOCA/post.php" />
+	
+	<persistant_base_url_getall 	url="http://localhost/MOCA/getAll.php" />
+	
+	<timeout connect="6000" disconnect="6000" />
+
+</config>
